@@ -33,8 +33,8 @@ int birdHighScore = 0;
 int snakeHighScore = 0;
 
 // API BİLGİLERİ
-const char* apiKey = "AIzaSyCtzMQ-TYVikRTdhsebnVtYmTJSLkId6sU"; 
-const char* channelId = "UCVHwxWW6e5z-v4FiwMs5fAQ"; 
+const char* apiKey = "BURAYA_KENDI_API_ANAHTARINIZI_YAZIN";
+const char* channelId = "BURAYA_KANAL_ID_YAZIN";
 unsigned long lastEyeMove = 0, lastMove = 0, lastApiUpdate = 0;
 long subCount = 0;
 
